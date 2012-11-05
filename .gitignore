@@ -1,0 +1,12 @@
+
+TestJson/.DS_Store
+
+.DS_Store
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+*.xcscheme
+
+*.plist
