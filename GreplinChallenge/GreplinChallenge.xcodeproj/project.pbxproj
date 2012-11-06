@@ -19,6 +19,7 @@
 		298C9016163B4B7100602C24 /* NSString-Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 298C9015163B4B7100602C24 /* NSString-Extension.m */; };
 		298C9021163B5B1F00602C24 /* NSNumber-Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 298C9020163B5B1F00602C24 /* NSNumber-Extension.m */; };
 		298C902C1640EC0400602C24 /* NSArray-Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 298C902B1640EC0400602C24 /* NSArray-Extension.m */; };
+		29E611E016497F79001AFD62 /* GreplinChallenge-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 29E611DF16497F79001AFD62 /* GreplinChallenge-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +27,6 @@
 		298C8FF4163B4ABC00602C24 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		298C8FF6163B4ABC00602C24 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		298C8FF8163B4ABC00602C24 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		298C8FFC163B4ABC00602C24 /* GreplinChallenge-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GreplinChallenge-Info.plist"; sourceTree = "<group>"; };
 		298C8FFE163B4ABC00602C24 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		298C9000163B4ABC00602C24 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		298C9002163B4ABC00602C24 /* GreplinChallenge-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GreplinChallenge-Prefix.pch"; sourceTree = "<group>"; };
@@ -41,6 +41,7 @@
 		298C9020163B5B1F00602C24 /* NSNumber-Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSNumber-Extension.m"; path = "LongestPalendrome/NSNumber-Extension.m"; sourceTree = "<group>"; };
 		298C902A1640EC0400602C24 /* NSArray-Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSArray-Extension.h"; path = "LongestPalendrome/NSArray-Extension.h"; sourceTree = "<group>"; };
 		298C902B1640EC0400602C24 /* NSArray-Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSArray-Extension.m"; path = "LongestPalendrome/NSArray-Extension.m"; sourceTree = "<group>"; };
+		29E611DF16497F79001AFD62 /* GreplinChallenge-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GreplinChallenge-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +100,7 @@
 		298C8FFB163B4ABC00602C24 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				298C8FFC163B4ABC00602C24 /* GreplinChallenge-Info.plist */,
+				29E611DF16497F79001AFD62 /* GreplinChallenge-Info.plist */,
 				298C8FFD163B4ABC00602C24 /* InfoPlist.strings */,
 				298C9000163B4ABC00602C24 /* main.m */,
 				298C9002163B4ABC00602C24 /* GreplinChallenge-Prefix.pch */,
@@ -180,6 +181,7 @@
 				298C9007163B4ABC00602C24 /* Default.png in Resources */,
 				298C9009163B4ABC00602C24 /* Default@2x.png in Resources */,
 				298C900B163B4ABC00602C24 /* Default-568h@2x.png in Resources */,
+				29E611E016497F79001AFD62 /* GreplinChallenge-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

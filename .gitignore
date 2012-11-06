@@ -9,6 +9,8 @@ TestJson/.DS_Store
 
 *.xcscheme
 
-*.plist
 
-LongestPalendrome/GreplinChallenge.xcodeproj/project.pbxproj
+
+GreplinChallenge/GreplinChallenge.xcodeproj/xcuserdata/navingoel.xcuserdatad/xcschemes/xcschememanagement.plist
+
+TestJson/TestJson.xcodeproj/xcuserdata/navingoel.xcuserdatad/xcschemes/xcschememanagement.plist
